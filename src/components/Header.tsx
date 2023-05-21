@@ -1,4 +1,4 @@
-import React, { ForwardedRef, Ref, forwardRef } from "react";
+import React, { ForwardedRef, forwardRef } from "react";
 
 interface WrappedComponentProps {
   // Props of the wrapped component
